@@ -100,13 +100,13 @@ During this project, you will learn how to manipulate **HTML** and **CSS** langu
     ## Preview
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60367519/87255284-01360780-c44f-11ea-9a96-a3e082e0e244.PNG">
+  <img src="">
 </p>
 <p align="center"><strong>Preview 1</strong></p>
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60367519/87255286-07c47f00-c44f-11ea-8e26-be4c4b0c308e.PNG">
+  <img src="">
 </p>
 <p align="center"><strong>Preview 2</strong></p>
 <br>
