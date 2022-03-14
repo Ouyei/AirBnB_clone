@@ -100,7 +100,7 @@ During this project, you will learn how to manipulate **HTML** and **CSS** langu
     ## Preview
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Ouyei/Oski_Portfolio/blob/main/images/AirBnB_web_static.JPG">
 </p>
 <p align="center"><strong>Preview</strong></p>
 <br>
