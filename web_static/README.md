@@ -102,13 +102,7 @@ During this project, you will learn how to manipulate **HTML** and **CSS** langu
 <p align="center">
   <img src="">
 </p>
-<p align="center"><strong>Preview 1</strong></p>
-<br>
-
-<p align="center">
-  <img src="">
-</p>
-<p align="center"><strong>Preview 2</strong></p>
+<p align="center"><strong>Preview</strong></p>
 <br>
 
 ## Author
